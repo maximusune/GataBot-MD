@@ -82,7 +82,7 @@ let menuB = `
 
 ⠇ *${lenguajeGB['smsTex16']()}* 🔊
 ⠇ ${lenguajeGB['smsTex17']()}
-∘ _Buraniu_
+∘ _buranyu_
 ∘ _Noche de paz_
 ∘ _Buenos dias_
 ∘ _Audio hentai_
