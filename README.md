@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://imgur.com/evWk2zp" alt="GataBot-MD" width="900"/>
+<img src="https://i.imgur.com/evWk2zp.jpg" alt="GataBot-MD" width="900"/>
 </p>
 
 <p align="center">
