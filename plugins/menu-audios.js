@@ -82,6 +82,7 @@ let menuB = `
 
 ⠇ *${lenguajeGB['smsTex16']()}* 🔊
 ⠇ ${lenguajeGB['smsTex17']()}
+∘ _Buraniu_
 ∘ _Noche de paz_
 ∘ _Buenos dias_
 ∘ _Audio hentai_
@@ -223,7 +224,8 @@ rows: [
 {title: lenguajeGB['smsLista2'](), description: null, rowId: `${usedPrefix}creadora`},
 {title: lenguajeGB['smsLista5'](), description: null, rowId: `${usedPrefix}infomenu`},
 {title: lenguajeGB['smsLista6'](), description: null, rowId: `${usedPrefix}allmenu`},  
-  
+
+{title: "➥🔊 buranyu", description: null, rowId: `buranyu`},
 {title: "➥🔊 Noche de paz", description: null, rowId: `Noche de paz`},
 {title: "➥🔊 Buenos dias", description: null, rowId: `Buenos dias`},
 {title: "➥🔊 Audio hentai", description: null, rowId: `Audio hentai`},
