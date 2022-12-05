@@ -82,7 +82,7 @@ let menuB = `
 
 ⠇ *${lenguajeGB['smsTex16']()}* 🔊
 ⠇ ${lenguajeGB['smsTex17']()}
-∘ _Buranyu_
+
 ∘ _Noche de paz_
 ∘ _Buenos dias_
 ∘ _Audio hentai_
@@ -156,7 +156,7 @@ let menuB = `
 ∘ _Una pregunta_
 ∘ _Que sucede_
 ∘ _Hablame_
-∘ _Pikachu_
+∘ _Buranyu_
 ∘ _Niconico_
 ∘ _Yokese_
 ∘ _Omaiga_
@@ -225,7 +225,6 @@ rows: [
 {title: lenguajeGB['smsLista5'](), description: null, rowId: `${usedPrefix}infomenu`},
 {title: lenguajeGB['smsLista6'](), description: null, rowId: `${usedPrefix}allmenu`},  
 
-{title: "➥🔊 buranyu", description: null, rowId: `Buranyu`},
 {title: "➥🔊 Noche de paz", description: null, rowId: `Noche de paz`},
 {title: "➥🔊 Buenos dias", description: null, rowId: `Buenos dias`},
 {title: "➥🔊 Audio hentai", description: null, rowId: `Audio hentai`},
@@ -298,7 +297,7 @@ rows: [
 {title: "➥🔊 Una pregunta", description: null, rowId: `Una pregunta`},
 {title: "➥🔊 Que sucede", description: null, rowId: `Que sucede`},
 {title: "➥🔊 Hablame", description: null, rowId: `Hablame`},
-{title: "➥🔊 Pikachu", description: null, rowId: `Pikachu`},
+{title: "➥🔊 buranyu", description: null, rowId: `Buranyu`},
 {title: "➥🔊 Niconico", description: null, rowId: `Niconico`},
 {title: "➥🔊 Yokese", description: null, rowId: `Yokese`},
 {title: "➥🔊 Omaiga", description: null, rowId: `Omaiga`},
